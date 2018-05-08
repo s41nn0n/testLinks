@@ -1,0 +1,13 @@
+#The browsers you want to use
+browsers:
+        - google-chrome --incognito
+        - chromium-browser --incognito
+        - iexplorer
+        - firefox
+#The urls, you want to open
+urls:
+        - https://www.google.com
+        - https://www.iprg.co.za
+# Do you only want to open all at once?
+atonce: 
+        true
